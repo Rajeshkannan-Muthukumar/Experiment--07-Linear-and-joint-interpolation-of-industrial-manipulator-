@@ -1,4 +1,7 @@
 # Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-
+Name: RAJESHKANNAN M
+
+Reg.No: 212221230081
 
 ### Aim :
       To understand linear and joint interpolation of industrial manipulator and develop a program for the same 
@@ -39,35 +42,21 @@ When the manipulator wrist is moved by the programmer to teach, the movements co
 DART studio screen shots for linear interpolation 
 
 
-
-
-
-
-
+![output](op.png)
 
 
 DART studio screen shots for joint interpolation 
 
 
 
-
-
-
-
-
 ### Robot movements 
 
+![output](op1.png)
 
 
-
-
-
-
-
-
-
-
+![output](op2.png)
 
 
 
 ### Results:  
+Thus ,linear and joint interpolation of industrial manipulator and program is executed.
